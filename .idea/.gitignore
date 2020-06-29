@@ -1,0 +1,285 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/.gitignore
+/.name
+/../Coffee Machine/task/build/classes/java/main/machine/Action.class
+/../Coffee Machine/task/build/reports/tests/test/css/base-style.css
+/../Problems/Book/out/production/classes/Book.class
+/../build.gradle
+/../.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/../.gradle/buildOutputCleanup/cache.properties
+/../.gradle/checksums/checksums.lock
+/../.gradle/5.3.1/javaCompile/classAnalysis.bin
+/../Coffee Machine/task/build/classes/java/main/machine/Coffee.class
+/modules/Coffee_Machine.iml
+/modules/Coffee Machine/task/Coffee_Machine-task.iml
+/modules/Coffee Machine/task/Coffee_Machine-task_main.iml
+/modules/Coffee Machine/task/Coffee_Machine-task_test.iml
+/../Coffee Machine/task/build/classes/java/main/machine/CoffeeMachine$1.class
+/../Coffee Machine/task/build/classes/java/main/machine/CoffeeMachine.class
+/../Coffee Machine/task/out/production/classes/machine/CoffeeMachine.class
+/../Coffee Machine/task/build/classes/java/test/CoffeeMachineTest.class
+/../Coffee Machine/task/build/reports/tests/test/classes/CoffeeMachineTest.html
+/../Coffee Machine/task/test/CoffeeMachineTest.java
+/compiler.xml
+/../course-info.yaml
+/../course-remote-info.yaml
+/../Coffee Machine/task/build/reports/tests/test/packages/default-package.html
+/../Problems/Robot control/out/production/classes/Direction$1.class
+/../Problems/Robot control/out/production/classes/Direction.class
+/../.gradle/5.3.1/executionHistory/executionHistory.bin
+/../.gradle/6.1/executionHistory/executionHistory.bin
+/../.gradle/5.3.1/executionHistory/executionHistory.lock
+/../.gradle/6.1/executionHistory/executionHistory.lock
+/../.gradle/5.3.1/fileContent/fileContent.lock
+/../.gradle/5.3.1/fileHashes/fileHashes.bin
+/../.gradle/6.1/fileHashes/fileHashes.bin
+/../.gradle/5.3.1/fileHashes/fileHashes.lock
+/../.gradle/6.1/fileHashes/fileHashes.lock
+/../.gradle/5.3.1/gc.properties
+/../.gradle/6.1/gc.properties
+/../.gradle/vcs-1/gc.properties
+/gradle.xml
+/../gradle/wrapper/gradle-wrapper.jar
+/../gradle/wrapper/gradle-wrapper.properties
+/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml
+/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml
+/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml
+/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml
+/libraries/Gradle__com_github_hyperskill_hs_test_v7_0_1.xml
+/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml
+/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml
+/libraries/Gradle__commons_codec_commons_codec_1_11.xml
+/libraries/Gradle__commons_logging_commons_logging_1_2.xml
+/libraries/Gradle__junit_junit_4_11.xml
+/libraries/Gradle__junit_junit_4_12.xml
+/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml
+/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml
+/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml
+/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml
+/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml
+/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml
+/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml
+/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml
+/../gradlew
+/../gradlew.bat
+/../Coffee Machine/task/build/reports/tests/test/index.html
+/../Coffee Machine/task/build/tmp/test/jar_extract_181364225114519832_tmp
+/../Coffee Machine/task/build/tmp/test/jar_extract_625807378191035440_tmp
+/../Coffee Machine/task/build/tmp/test/jar_extract_2837603981770405830_tmp
+/../Coffee Machine/task/build/tmp/test/jar_extract_5571640299428859130_tmp
+/../Coffee Machine/task/build/tmp/test/jar_extract_7397793003353654293_tmp
+/../Coffee Machine/task/build/tmp/test/jar_extract_9840298928520848228_tmp
+/../Coffee Machine/task/build/tmp/test/jar_extract_11108701879802311697_tmp
+/../Coffee Machine/task/build/tmp/test/jar_extract_11783582908907942470_tmp
+/../Coffee Machine/task/build/tmp/test/jar_extract_13513185145405983748_tmp
+/../Coffee Machine/task/build/tmp/test/jar_extract_14235112973834303214_tmp
+/../Coffee Machine/task/build/tmp/test/jar_extract_16140470375603218410_tmp
+/../Coffee Machine/task/build/tmp/test/jar_extract_17416467823897048916_tmp
+/../.gradle/5.3.1/javaCompile/jarAnalysis.bin
+/jarRepositories.xml
+/../.gradle/5.3.1/javaCompile/javaCompile.lock
+/../.gradle/5.3.1/fileChanges/last-build.bin
+/../.gradle/6.1/fileChanges/last-build.bin
+/../Coffee Machine/lesson-info.yaml
+/../Problems/lesson-info.yaml
+/../Problems/Account and its owner/out/production/classes/Main$Account.class
+/../Problems/Account and its owner/out/production/classes/Main$User.class
+/../Problems/Account and its owner/out/production/classes/Main.class
+/../Problems/Alphabetical order/out/production/classes/Main.class
+/../Problems/Book/out/production/classes/Main.class
+/../Problems/Check if an array contains two numbers/out/production/classes/Main.class
+/../Problems/Cyclically shifting elements/out/production/classes/Main.class
+/../Problems/Robot control/out/production/classes/Main.class
+/../Problems/The sum of digits/out/production/classes/Main.class
+/../Problems/Account and its owner/src/Main.java
+/../Problems/Alphabetical order/src/Main.java
+/../Problems/Book/src/Main.java
+/../Problems/Books/src/Main.java
+/../Problems/Check if an array contains two numbers/src/Main.java
+/../Problems/Circle/src/Main.java
+/../Problems/Complex numbers/src/Main.java
+/../Problems/Complex numbers (1)/src/Main.java
+/../Problems/Count how many times a number occurs/src/Main.java
+/../Problems/Cyclically shifting elements/src/Main.java
+/../Problems/Danger levels/src/Main.java
+/../Problems/Days of week/src/Main.java
+/../Problems/Find the max of three numbers/src/Main.java
+/../Problems/Points on the 2D plane/src/Main.java
+/../Problems/Robot control/src/Main.java
+/../Problems/Simulating a clock/src/Main.java
+/../Problems/The secret enumeration/src/Main.java
+/../Problems/The sum of digits/src/Main.java
+/../Problems/Too many cats/src/Main.java
+/../Problems/User/src/Main.java
+/misc.xml
+/modules.xml
+/../Problems/Robot control/out/production/classes/Move$1.class
+/../Problems/Robot control/out/production/classes/Move.class
+/../Coffee Machine/task/build/test-results/test/binary/output.bin
+/../Coffee Machine/task/build/test-results/test/binary/output.bin.idx
+/../.gradle/buildOutputCleanup/outputFiles.bin
+/../Problems/The sum of digits/out/production/classes/Person.class
+/modules/Problems/Account and its owner/Problems-Account_and_its_owner.iml
+/modules/Problems/Account and its owner/Problems-Account_and_its_owner_main.iml
+/modules/Problems/Account and its owner/Problems-Account_and_its_owner_test.iml
+/modules/Problems/Alphabetical order/Problems-Alphabetical_order.iml
+/modules/Problems/Alphabetical order/Problems-Alphabetical_order_main.iml
+/modules/Problems/Alphabetical order/Problems-Alphabetical_order_test.iml
+/modules/Problems/Book/Problems-Book.iml
+/modules/Problems/Book/Problems-Book_main.iml
+/modules/Problems/Book/Problems-Book_test.iml
+/modules/Problems/Books/Problems-Books.iml
+/modules/Problems/Books/Problems-Books_main.iml
+/modules/Problems/Books/Problems-Books_test.iml
+/modules/Problems/Check if an array contains two numbers/Problems-Check_if_an_array_contains_two_numbers.iml
+/modules/Problems/Check if an array contains two numbers/Problems-Check_if_an_array_contains_two_numbers_main.iml
+/modules/Problems/Check if an array contains two numbers/Problems-Check_if_an_array_contains_two_numbers_test.iml
+/modules/Problems/Circle/Problems-Circle.iml
+/modules/Problems/Circle/Problems-Circle_main.iml
+/modules/Problems/Circle/Problems-Circle_test.iml
+/modules/Problems/Complex numbers/Problems-Complex_numbers.iml
+/modules/Problems/Complex numbers (1)/Problems-Complex_numbers__1_.iml
+/modules/Problems/Complex numbers (1)/Problems-Complex_numbers__1__main.iml
+/modules/Problems/Complex numbers (1)/Problems-Complex_numbers__1__test.iml
+/modules/Problems/Complex numbers/Problems-Complex_numbers_main.iml
+/modules/Problems/Complex numbers/Problems-Complex_numbers_test.iml
+/modules/Problems/Count how many times a number occurs/Problems-Count_how_many_times_a_number_occurs.iml
+/modules/Problems/Count how many times a number occurs/Problems-Count_how_many_times_a_number_occurs_main.iml
+/modules/Problems/Count how many times a number occurs/Problems-Count_how_many_times_a_number_occurs_test.iml
+/modules/Problems/Cyclically shifting elements/Problems-Cyclically_shifting_elements.iml
+/modules/Problems/Cyclically shifting elements/Problems-Cyclically_shifting_elements_main.iml
+/modules/Problems/Cyclically shifting elements/Problems-Cyclically_shifting_elements_test.iml
+/modules/Problems/Danger levels/Problems-Danger_levels.iml
+/modules/Problems/Danger levels/Problems-Danger_levels_main.iml
+/modules/Problems/Danger levels/Problems-Danger_levels_test.iml
+/modules/Problems/Days of week/Problems-Days_of_week.iml
+/modules/Problems/Days of week/Problems-Days_of_week_main.iml
+/modules/Problems/Days of week/Problems-Days_of_week_test.iml
+/modules/Problems/Find the max of three numbers/Problems-Find_the_max_of_three_numbers.iml
+/modules/Problems/Find the max of three numbers/Problems-Find_the_max_of_three_numbers_main.iml
+/modules/Problems/Find the max of three numbers/Problems-Find_the_max_of_three_numbers_test.iml
+/modules/Problems/Points on the 2D plane/Problems-Points_on_the_2D_plane.iml
+/modules/Problems/Points on the 2D plane/Problems-Points_on_the_2D_plane_main.iml
+/modules/Problems/Points on the 2D plane/Problems-Points_on_the_2D_plane_test.iml
+/modules/Problems/Project constants and methods/Problems-Project_constants_and_methods_main.iml
+/modules/Problems/Robot control/Problems-Robot_control.iml
+/modules/Problems/Robot control/Problems-Robot_control_main.iml
+/modules/Problems/Robot control/Problems-Robot_control_test.iml
+/modules/Problems/Simulating a clock/Problems-Simulating_a_clock.iml
+/modules/Problems/Simulating a clock/Problems-Simulating_a_clock_main.iml
+/modules/Problems/Simulating a clock/Problems-Simulating_a_clock_test.iml
+/modules/Problems/The secret enumeration/Problems-The_secret_enumeration.iml
+/modules/Problems/The secret enumeration/Problems-The_secret_enumeration_main.iml
+/modules/Problems/The secret enumeration/Problems-The_secret_enumeration_test.iml
+/modules/Problems/The sum of digits/Problems-The_sum_of_digits.iml
+/modules/Problems/The sum of digits/Problems-The_sum_of_digits_main.iml
+/modules/Problems/The sum of digits/Problems-The_sum_of_digits_test.iml
+/modules/Problems/Too many cats/Problems-Too_many_cats.iml
+/modules/Problems/Too many cats/Problems-Too_many_cats_main.iml
+/modules/Problems/Too many cats/Problems-Too_many_cats_test.iml
+/modules/Problems/User/Problems-User.iml
+/modules/Problems/User/Problems-User_main.iml
+/modules/Problems/User/Problems-User_test.iml
+/../Coffee Machine/task/build/reports/tests/test/js/report.js
+/../.gradle/5.3.1/fileHashes/resourceHashesCache.bin
+/../Coffee Machine/task/build/test-results/test/binary/results.bin
+/../Problems/Robot control/out/production/classes/Robot.class
+/../settings.gradle
+/frameworkLessonHistory/storage.storageData
+/frameworkLessonHistory/storage.storageRecordIndex
+/../Coffee Machine/task/build/reports/tests/test/css/style.css
+/../Coffee Machine/Action!/task.html
+/../Coffee Machine/Brush up your code/task.html
+/../Coffee Machine/Enough coffee for everyone/task.html
+/../Coffee Machine/Hello, coffee!/task.html
+/../Coffee Machine/Machines have needs/task.html
+/../Coffee Machine/On a coffee loop/task.html
+/../Problems/Account and its owner/task.html
+/../Problems/Alphabetical order/task.html
+/../Problems/Book/task.html
+/../Problems/Books/task.html
+/../Problems/Check if an array contains two numbers/task.html
+/../Problems/Circle/task.html
+/../Problems/Complex numbers/task.html
+/../Problems/Complex numbers (1)/task.html
+/../Problems/Count how many times a number occurs/task.html
+/../Problems/Cyclically shifting elements/task.html
+/../Problems/Danger levels/task.html
+/../Problems/Days of week/task.html
+/../Problems/Find the max of three numbers/task.html
+/../Problems/Points on the 2D plane/task.html
+/../Problems/Project constants and methods/task.html
+/../Problems/Robot control/task.html
+/../Problems/Simulating a clock/task.html
+/../Problems/The secret enumeration/task.html
+/../Problems/The sum of digits/task.html
+/../Problems/Too many cats/task.html
+/../Problems/User/task.html
+/../Coffee Machine/Action!/task-info.yaml
+/../Coffee Machine/Brush up your code/task-info.yaml
+/../Coffee Machine/Enough coffee for everyone/task-info.yaml
+/../Coffee Machine/Hello, coffee!/task-info.yaml
+/../Coffee Machine/Machines have needs/task-info.yaml
+/../Coffee Machine/On a coffee loop/task-info.yaml
+/../Problems/Account and its owner/task-info.yaml
+/../Problems/Alphabetical order/task-info.yaml
+/../Problems/Book/task-info.yaml
+/../Problems/Books/task-info.yaml
+/../Problems/Check if an array contains two numbers/task-info.yaml
+/../Problems/Circle/task-info.yaml
+/../Problems/Complex numbers/task-info.yaml
+/../Problems/Complex numbers (1)/task-info.yaml
+/../Problems/Count how many times a number occurs/task-info.yaml
+/../Problems/Cyclically shifting elements/task-info.yaml
+/../Problems/Danger levels/task-info.yaml
+/../Problems/Days of week/task-info.yaml
+/../Problems/Find the max of three numbers/task-info.yaml
+/../Problems/Points on the 2D plane/task-info.yaml
+/../Problems/Project constants and methods/task-info.yaml
+/../Problems/Robot control/task-info.yaml
+/../Problems/Simulating a clock/task-info.yaml
+/../Problems/The secret enumeration/task-info.yaml
+/../Problems/The sum of digits/task-info.yaml
+/../Problems/Too many cats/task-info.yaml
+/../Problems/User/task-info.yaml
+/../Coffee Machine/Action!/task-remote-info.yaml
+/../Coffee Machine/Brush up your code/task-remote-info.yaml
+/../Coffee Machine/Enough coffee for everyone/task-remote-info.yaml
+/../Coffee Machine/Hello, coffee!/task-remote-info.yaml
+/../Coffee Machine/Machines have needs/task-remote-info.yaml
+/../Coffee Machine/On a coffee loop/task-remote-info.yaml
+/../Problems/Account and its owner/task-remote-info.yaml
+/../Problems/Alphabetical order/task-remote-info.yaml
+/../Problems/Book/task-remote-info.yaml
+/../Problems/Books/task-remote-info.yaml
+/../Problems/Check if an array contains two numbers/task-remote-info.yaml
+/../Problems/Circle/task-remote-info.yaml
+/../Problems/Complex numbers/task-remote-info.yaml
+/../Problems/Complex numbers (1)/task-remote-info.yaml
+/../Problems/Count how many times a number occurs/task-remote-info.yaml
+/../Problems/Cyclically shifting elements/task-remote-info.yaml
+/../Problems/Danger levels/task-remote-info.yaml
+/../Problems/Days of week/task-remote-info.yaml
+/../Problems/Find the max of three numbers/task-remote-info.yaml
+/../Problems/Points on the 2D plane/task-remote-info.yaml
+/../Problems/Project constants and methods/task-remote-info.yaml
+/../Problems/Robot control/task-remote-info.yaml
+/../Problems/Simulating a clock/task-remote-info.yaml
+/../Problems/The secret enumeration/task-remote-info.yaml
+/../Problems/The sum of digits/task-remote-info.yaml
+/../Problems/Too many cats/task-remote-info.yaml
+/../Problems/User/task-remote-info.yaml
+/../.gradle/5.3.1/javaCompile/taskHistory.bin
+/../Coffee Machine/task/build/test-results/test/TEST-CoffeeMachineTest.xml
+/../Coffee Machine/task/build/classes/java/test/TestClue.class
+/modules/util/util.iml
+/modules/util/util_main.iml
+/modules/util/util_test.iml
+/vcs.xml
